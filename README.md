@@ -1,24 +1,37 @@
 # Natours
-Natour front-end project
+Front-end responsive web design project
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Try out](#try-out)
+* [Desktop view](#desktop-view)
+* [Mobile view](#mobile-view)
+* [Animations Demo](#animations-demo)
 * [Sources](#sources)
 
 ## General info
 
 The application
+Project of landing page of fictional company, who offers outdoor tours. The layout of page is based on CSS float.
 
 ## Technologies
-* JavaScript 2015+
-* Webpack
+* HTML
+* CSS
+* SASS
 
 ## Try out
 https://mkarasinski.github.io/Natours/
 
-## Demo
+## Desktop view
+<p align="center">
+  <img src="./demo/desktopView.png" />
+</p>
+## Mobile view
+<p align="center">
+  <img src="./demo/mobileView.png" />
+</p>
+## Animations Demo
 
 <p align="center">
   <img src="./demo/part_1.gif" />
