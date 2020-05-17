@@ -26,10 +26,12 @@ https://mkarasinski.github.io/Natours/
 <p align="center">
   <img src="./demo/desktopView.png" />
 </p>
+
 ## Mobile view
 <p align="center">
   <img src="./demo/mobileView.png" />
 </p>
+
 ## Animations Demo
 
 <p align="center">
