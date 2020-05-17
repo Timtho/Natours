@@ -1,3 +1,3 @@
 # Natours
 Natour front-end project
-https://timtho.github.io/Natours/
+https://mkarasinski.github.io/Natours/
