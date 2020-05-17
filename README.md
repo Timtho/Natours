@@ -12,7 +12,6 @@ Front-end responsive web design project
 
 ## General info
 
-The application
 Project of landing page of fictional company, who offers outdoor tours. The layout of page is based on CSS float.
 
 ## Technologies
