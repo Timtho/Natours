@@ -1,4 +1,4 @@
-# Natours
+# Natours 
 Front-end responsive web design project
 
 ## Table of contents
